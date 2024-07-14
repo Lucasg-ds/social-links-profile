@@ -1,0 +1,10 @@
+:root {
+    --highlight-color: #c5f82a;
+
+    --background-color: #141414;
+    --background-card: #1f1f1f;
+    --background-link: #333333;
+    
+    --font-style: "Inter", sans-serif;
+    --font-color: #ffffff;
+}
